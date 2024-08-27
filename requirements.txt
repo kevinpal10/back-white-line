@@ -6,6 +6,3 @@ django-database-url==1.0.3
 gunicorn==23.0.0
 psycopg2==2.9.5
 sqlparse==0.4.3
-Bootstrap-Flask==2.3.3
-
-
